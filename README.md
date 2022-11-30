@@ -1,5 +1,5 @@
-# primes
-## [primes - GitHub Classroom](https://classroom.github.com/a/LliJBxuh)
+# multiples
+## [multiples - GitHub Classroom](https://classroom.github.com/a/zhE0PjjE)
 <br> 
 
 ## Description
